@@ -1,0 +1,8 @@
+{
+  "TotalSamples": 50,
+  "AverageResponseTime": 350,
+  "Median": 330,
+  "Min": 250,
+  "Max": 600,
+  "ErrorRate": "0%"
+}
