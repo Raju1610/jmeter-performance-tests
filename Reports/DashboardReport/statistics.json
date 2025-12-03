@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "TotalSamples": 50,
   "AverageResponseTime": 350,
@@ -6,3 +7,13 @@
   "Max": 600,
   "ErrorRate": "0%"
 }
+=======
+{
+  "TotalSamples": 50,
+  "AverageResponseTime": 350,
+  "Median": 330,
+  "Min": 250,
+  "Max": 600,
+  "ErrorRate": "0%"
+}
+>>>>>>> 80d541dae34dedc9495e9ece927fb21728d3947a
